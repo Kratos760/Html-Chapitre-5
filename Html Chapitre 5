@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Liens Hypertexte</title>
+</head>
+
+<body>
+    <header>
+        <ul>
+            <li><a href="index.html">Accueil</a></li>
+            <li><a href="about.html" target="_blank">A propos</a></li>
+            <li><a href="contact.html" target="_blank">Contacts</a></li>
+        </ul>
+    </header>
+    <main>
+        <header>
+            <hr>
+            <h1><span>Blog</span></h1>
+        </header>
+        <aside>
+            <article>
+                <header>
+                    <h2>1er Article</h2>
+                </header><hr>
+                <p>ipsum dolor sit amet consectetur adipisicing elit. Commodi cum aliquam deleniti fuga inventore
+                    voluptatem
+                    nesciunt blanditiis veniam neque voluptates, dolorum possimus delectus, hic repellat beatae
+                    repudiandae
+                    veritatis consequatur explicabo.<br>
+                    Maiores architecto eaque et iure, sapiente aliquam numquam quo assumenda excepturi quam est veniam
+                    natus
+                    dolorem necessitatibus quis quaerat sit cum eveniet eum porro officia, suscipit odio! Beatae, fuga
+                    debitis!<br>
+                    Ullam sit nulla laborum vero alias in facere soluta, porro maiores, atque quo? Sint qui quas
+                    molestiae
+                    accusamus tenetur.<br> Sapiente esse molestiae distinctio dolores ipsam a iste soluta, pariatur
+                    consectetur.
+                </p>
+                <!-- je ne sait pas quoi ecrire-->
+            </article>
+        </aside>
+        <aside>
+            <article>
+                <header>
+                    <h2>2e Article</h2>
+                </header>
+                <hr>
+                <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit.<br> Voluptate nostrum, fuga doloribus, totam
+                    ipsam
+                    quas in accusantium quod molestiae sequi iste. Laboriosam optio aperiam, expedita voluptates rerum
+                    sapiente in magnam.<br>
+                    Reiciendis porro ex alias aut impedit iste, assumenda et nihil optio numquam pariatur praesentium
+                    ipsum
+                    eaque quisquam atque, ducimus animi vitae exercitationem nobis quia.<br> Doloremque cumque
+                    necessitatibus
+                    possimus nisi praesentium.<br>
+                    Porro voluptatibus delectus saepe aliquam eos ducimus, hic, corrupti nobis repellendus, mollitia
+                    modi
+                    dolore placeat facere praesentium quibusdam necessitatibus illo optio! Doloremque, rem quasi eaque
+                    distinctio tempora nam sunt ipsam?</p>
+                    <!-- la non plus -->
+            </article>
+        </aside>
+    </main>
+    <hr>
+    <footer>
+        <a href="https://fr-fr.facebook.com/" target="_blank">Facebook</a>
+        <a href="https://www.instagram.com/" target="_blank">Instagram</a>
+        <a href="mailto:gg.wcs@gmail.com">Envoyer un mail</a>
+        &copy;Copyright
+    </footer>
+
+</html>
